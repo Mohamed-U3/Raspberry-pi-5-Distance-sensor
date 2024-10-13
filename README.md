@@ -12,7 +12,7 @@
 
 ### Raspberry pi 5 Distance sensor - project that measure distance using Ultrasonic sensor HC-SR04, OLED display SSH1106, buzzer, and LEDs
 
-![Wiring](img\Sketch_bb.png)
+![Wiring](img/Sketch_bb.png)
 
 | Pins                     | Description                                                  |
 | ------------------------ | ------------------------------------------------------------ |
